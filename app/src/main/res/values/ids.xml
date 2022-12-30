@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="textDaftarTagihan" type="id" />
+    <item name="sass" type="id" />
+    <item name="text1" type="id" />
+    <item name="textDetailTagihan" type="id" />
+    <item name="textTotalTagihan" type="id" />
+    <item name="textNominalTotalTagihan" type="id" />
+</resources>
